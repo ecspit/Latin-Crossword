@@ -4,11 +4,11 @@
     "definition": "and"
   },
   {
-    "word": "adeō",
+    "word": "adeo",
     "definition": "so"
   },
   {
-    "word": "adhūc",
+    "word": "adhuc",
     "definition": "still"
   },
   {
@@ -16,19 +16,19 @@
     "definition": "extremely"
   },
   {
-    "word": "aliās",
+    "word": "alias",
     "definition": "at another time"
   },
   {
-    "word": "alibī",
+    "word": "alibi",
     "definition": "elsewhere"
   },
   {
-    "word": "aliquandō",
+    "word": "aliquando",
     "definition": "at some time"
   },
   {
-    "word": "aliquantō",
+    "word": "aliquanto",
     "definition": "to some extent"
   },
   {
@@ -38,5 +38,381 @@
   {
     "word": "an",
     "definition": "or / whether"
+  },
+  {
+    "word": "ante",
+    "definition": "before"
+  },
+  {
+    "word": "antea",
+    "definition": "before"
+  },
+  {
+    "word": "anteaquam",
+    "definition": "before"
+  },
+  {
+    "word": "antequam",
+    "definition": "before"
+  },
+  {
+    "word": "at",
+    "definition": "but"
+  },
+  {
+    "word": "atque",
+    "definition": "and"
+  },
+  {
+    "word": "atqui",
+    "definition": "but"
+  },
+  {
+    "word": "aut",
+    "definition": "or"
+  },
+  {
+    "word": "autem",
+    "definition": "but / and"
+  },
+  {
+    "word": "clam",
+    "definition": "secretly"
+  },
+  {
+    "word": "cottidie",
+    "definition": "every day"
+  },
+  {
+    "word": "cras",
+    "definition": "tomorrow"
+  },
+  {
+    "word": "cum",
+    "definition": "since / when / although"
+  },
+  {
+    "word": "cur",
+    "definition": "why"
+  },
+  {
+    "word": "dehinc",
+    "definition": "then"
+  },
+  {
+    "word": "deinde",
+    "definition": "then"
+  },
+  {
+    "word": "demum",
+    "definition": "at last"
+  },
+  {
+    "word": "denique",
+    "definition": "at last"
+  },
+  {
+    "word": "diu",
+    "definition": "for a long time"
+  },
+  {
+    "word": "donec",
+    "definition": "until"
+  },
+  {
+    "word": "dum",
+    "definition": "while"
+  },
+  {
+    "word": "dum",
+    "definition": "provided that"
+  },
+  {
+    "word": "dum",
+    "definition": "until"
+  },
+  {
+    "word": "ecce",
+    "definition": "look!"
+  },
+  {
+    "word": "enim",
+    "definition": "for"
+  },
+  {
+    "word": "eo",
+    "definition": "to there"
+  },
+  {
+    "word": "equidem",
+    "definition": "indeed"
+  },
+  {
+    "word": "ergo",
+    "definition": "therefore"
+  },
+  {
+    "word": "et",
+    "definition": "and"
+  },
+  {
+    "word": "etenim",
+    "definition": "for"
+  },
+  {
+    "word": "etiam",
+    "definition": "also / evem"
+  },
+  {
+    "word": "etiamsi",
+    "definition": "even if"
+  },
+  {
+    "word": "etsi",
+    "definition": "even if"
+  },
+  {
+    "word": "fere",
+    "definition": "almost / generally"
+  },
+  {
+    "word": "ferme",
+    "definition": "almost / nearly"
+  },
+  {
+    "word": "forsan",
+    "definition": "perhaps / maybe"
+  },
+  {
+    "word": "forsitan",
+    "definition": "perhaps / maybe"
+  },
+  {
+    "word": "fortasse",
+    "definition": "perhaps"
+  },
+  {
+    "word": "forte",
+    "definition": "by chance"
+  },
+  {
+    "word": "haud",
+    "definition": "not"
+  },
+  {
+    "word": "haudquaquam",
+    "definition": "by no means"
+  },
+  {
+    "word": "heri",
+    "definition": "yesterday"
+  },
+  {
+    "word": "hic",
+    "definition": "here"
+  },
+  {
+    "word": "hinc",
+    "definition": "from here"
+  },
+  {
+    "word": "hodie",
+    "definition": "today"
+  },
+  {
+    "word": "huc",
+    "definition": "to here"
+  },
+  {
+    "word": "iam",
+    "definition": "now / already"
+  },
+  {
+    "word": "ibi",
+    "definition": "there"
+  },
+  {
+    "word": "idcirco",
+    "definition": "therefore"
+  },
+  {
+    "word": "ideo",
+    "definition": "therefore"
+  },
+  {
+    "word": "igitur",
+    "definition": "therefore"
+  },
+  {
+    "word": "illic",
+    "definition": "there"
+  },
+  {
+    "word": "illinc",
+    "definition": "from there"
+  },
+  {
+    "word": "illuc",
+    "definition": "to there"
+  },
+  {
+    "word": "immo",
+    "definition": "rather"
+  },
+  {
+    "word": "inde",
+    "definition": "from there"
+  },
+  {
+    "word": "insuper",
+    "definition": "moreover"
+  },
+  {
+    "word": "interdum",
+    "definition": "now and then"
+  },
+  {
+    "word": "interea",
+    "definition": "meanwhile"
+  },
+  {
+    "word": "interim",
+    "definition": "meanwhile"
+  },
+  {
+    "word": "intro",
+    "definition": "inside"
+  },
+  {
+    "word": "intus",
+    "definition": "inside"
+  },
+  {
+    "word": "istic",
+    "definition": "there"
+  },
+  {
+    "word": "istinc",
+    "definition": "from there"
+  },
+  {
+    "word": "istuc",
+    "definition": "to there"
+  },
+  {
+    "word": "ita",
+    "definition": "so"
+  },
+  {
+    "word": "itaque",
+    "definition": "therefore"
+  },
+  {
+    "word": "item",
+    "definition": "in the same way"
+  },
+  {
+    "word": "iterum",
+    "definition": "again"
+  },
+  {
+    "word": "mane",
+    "definition": "early in the morning"
+  },
+  {
+    "word": "modo",
+    "definition": "only"
+  },
+  {
+    "word": "mox",
+    "definition": "soon"
+  },
+  {
+    "word": "nam",
+    "definition": "for"
+  },
+  {
+    "word": "namque",
+    "definition": "for"
+  },
+  {
+    "word": "ne",
+    "definition": "lest"
+  },
+  {
+    "word": "nec",
+    "definition": "nor"
+  },
+  {
+    "word": "neque",
+    "definition": "nor"
+  },
+  {
+    "word": "necne",
+    "definition": "or not"
+  },
+  {
+    "word": "necnon",
+    "definition": "furthermore"
+  },
+  {
+    "word": "nempe",
+    "definition": "indeed"
+  },
+  {
+    "word": "nequaquam",
+    "definition": "nowhere"
+  },
+  {
+    "word": "nequiquam",
+    "definition": "in vain"
+  },
+  {
+    "word": "nihilominus",
+    "definition": "nevertheless"
+  },
+  {
+    "word": "nimis",
+    "definition": "too much"
+  },
+  {
+    "word": "nimium",
+    "definition": "too much"
+  },
+  {
+    "word": "nisi",
+    "definition": "unless"
+  },
+  {
+    "word": "noctu",
+    "definition": "by night"
+  },
+  {
+    "word": "non",
+    "definition": "not"
+  },
+  {
+    "word": "nondum",
+    "definition": "not yet"
+  },
+  {
+    "word": "nonnumquam",
+    "definition": "sometimes"
+  },
+  {
+    "word": "num",
+    "definition": "whether"
+  },
+  {
+    "word": "numquam",
+    "definition": "never"
+  },
+  {
+    "word": "nunc",
+    "definition": "now"
+  },
+  {
+    "word": "nuper",
+    "definition": "recently"
   }
 ]
