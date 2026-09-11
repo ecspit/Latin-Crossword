@@ -414,5 +414,473 @@
   {
     "word": "nuper",
     "definition": "recently"
+  },
+  {
+    "word": "nusquam",
+    "definition": "nowhere"
+  },
+  {
+    "word": "olim",
+    "definition": "one day"
+  },
+  {
+    "word": "omnino",
+    "definition": "entirely"
+  },
+  {
+    "word": "paene",
+    "definition": "almost"
+  },
+  {
+    "word": "palam",
+    "definition": "openly"
+  },
+  {
+    "word": "pariter",
+    "definition": "equally"
+  },
+  {
+    "word": "partim",
+    "definition": "partly"
+  },
+  {
+    "word": "parum",
+    "definition": "too little"
+  },
+  {
+    "word": "paulatim",
+    "definition": "gradually"
+  },
+  {
+    "word": "paulo",
+    "definition": "by a little"
+  },
+  {
+    "word": "paulum",
+    "definition": "slightly"
+  },
+  {
+    "word": "plerumque",
+    "definition": "generally"
+  },
+  {
+    "word": "postea",
+    "definition": "afterward"
+  },
+  {
+    "word": "postquam",
+    "definition": "after"
+  },
+  {
+    "word": "postremo",
+    "definition": "finally"
+  },
+  {
+    "word": "postridie",
+    "definition": "on the next day"
+  },
+  {
+    "word": "potius",
+    "definition": "rather"
+  },
+  {
+    "word": "praesertim",
+    "definition": "especially"
+  },
+  {
+    "word": "praesto",
+    "definition": "at hand"
+  },
+  {
+    "word": "praeterea",
+    "definition": "moreover"
+  },
+  {
+    "word": "pridie",
+    "definition": "on the day before"
+  },
+  {
+    "word": "priusquam",
+    "definition": "before"
+  },
+  {
+    "word": "procul",
+    "definition": "far away"
+  },
+  {
+    "word": "profecto",
+    "definition": "certainly"
+  },
+  {
+    "word": "proinde",
+    "definition": "accordingly"
+  },
+  {
+    "word": "prope",
+    "definition": "near"
+  },
+  {
+    "word": "propterea",
+    "definition": "on that account"
+  },
+  {
+    "word": "prorsus",
+    "definition": "thoroughly / indeed"
+  },
+  {
+    "word": "prout",
+    "definition": "according as"
+  },
+  {
+    "word": "publico",
+    "definition": "in public"
+  },
+  {
+    "word": "qua",
+    "definition": "by which way"
+  },
+  {
+    "word": "quam",
+    "definition": "how"
+  },
+  {
+    "word": "quam",
+    "definition": "than"
+  },
+  {
+    "word": "quamdiu",
+    "definition": "how long"
+  },
+  {
+    "word": "quamobrem",
+    "definition": "why"
+  },
+  {
+    "word": "quamquam",
+    "definition": "although"
+  },
+  {
+    "word": "quamvis",
+    "definition": "although"
+  },
+  {
+    "word": "quando",
+    "definition": "when"
+  },
+  {
+    "word": "quandoque",
+    "definition": "sometimes"
+  },
+  {
+    "word": "quapropter",
+    "definition": "therefore"
+  },
+  {
+    "word": "quare",
+    "definition": "why"
+  },
+  {
+    "word": "quasi",
+    "definition": "as if"
+  },
+  {
+    "word": "quatenus",
+    "definition": "as far as"
+  },
+  {
+    "word": "nuper",
+    "definition": "recently"
+  },
+  {
+    "word": "quemadmodum",
+    "definition": "how"
+  },
+  {
+    "word": "quia",
+    "definition": "because"
+  },
+  {
+    "word": "quid",
+    "definition": "why"
+  },
+  {
+    "word": "quidem",
+    "definition": "indeed"
+  },
+  {
+    "word": "quin",
+    "definition": "why not?"
+  },
+  {
+    "word": "quin",
+    "definition": "indeed"
+  },
+  {
+    "word": "quippe"
+    "definition": "seeing that"
+  },
+  {
+    "word": "quo",
+    "definition": "to where"
+  },
+  {
+    "word": "quoad",
+    "definition": "to the extent that"
+  },
+  {
+    "word": "quocumque",
+    "definition": "to wherever"
+  },
+  {
+    "word": "quod",
+    "definition": "because"
+  },
+  {
+    "word": "quominus",
+    "definition": "whereby... not"
+  },
+  {
+    "word": "quomodo",
+    "definition": "how"
+  },
+  {
+    "word": "quondam",
+    "definition": "once upon a time"
+  },
+  {
+    "word": "quoniam",
+    "definition": "because"
+  },
+  {
+    "word": "quoque",
+    "definition": "also"
+  },
+  {
+    "word": "quot",
+    "definition": "how many"
+  },
+  {
+    "word": "quotannis",
+    "definition": "every year"
+  },
+  {
+    "word": "repente",
+    "definition": "suddenly"
+  },
+  {
+    "word": "rursus",
+    "definition": "again"
+  },
+  {
+    "word": "saepe",
+    "definition": "often"
+  },
+  {
+    "word": "saltem"
+    "definition": "at least"
+  },
+  {
+    "word": "sane",
+    "definition": "indeed"
+  },
+  {
+    "word": "satis",
+    "definition": "enough"
+  },
+  {
+    "word": "scilicet",
+    "definition": "of course"
+  },
+  {
+    "word": "secus",
+    "definition": "differently"
+  },
+  {
+    "word": "sed",
+    "definition": "but"
+  },
+  {
+    "word": "semper",
+    "definition": "always"
+  },
+  {
+    "word": "seu",
+    "definition": "whether"
+  },
+  {
+    "word": "sive",
+    "definition": "or if"
+  },
+  {
+    "word": "si",
+    "definition": "if"
+  },
+  {
+    "word": "sic",
+    "definition": "thus"
+  },
+  {
+    "word": "sicut",
+    "definition": "just as"
+  },
+  {
+    "word": "simul",
+    "definition": "together"
+  },
+  {
+    "word": "simul",
+    "definition": "simultaneously"
+  },
+  {
+    "word": "sin",
+    "definition": "but if"
+  },
+  {
+    "word": "solum",
+    "definition": "only"
+  },
+  {
+    "word": "sponte",
+    "definition": "spontaneously"
+  },
+  {
+    "word": "statim",
+    "definition": "immediately"
+  },
+  {
+    "word": "subito",
+    "definition": "suddenly"
+  },
+  {
+    "word": "tam",
+    "definition": "so"
+  },
+  {
+    "word": "tamen",
+    "definition": "however"
+  },
+  {
+    "word": "tametsi",
+    "definition": "even though"
+  },
+  {
+    "word": "tamquam",
+    "definition": "as if"
+  },
+  {
+    "word": "tandem",
+    "definition": "at last"
+  },
+  {
+    "word": "temere",
+    "definition": "rashly"
+  },
+  {
+    "word": "tot",
+    "definition": "so many"
+  },
+  {
+    "word": "tum",
+    "definition": "then"
+  },
+  {
+    "word": "tunc",
+    "definition": "then"
+  },
+  {
+    "word": "ubi",
+    "definition": "when"
+  },
+  {
+    "word": "ubi",
+    "definition": "where"
+  },
+  {
+    "word": "unicumque",
+    "definition": "wherever"
+  },
+  {
+    "word": "ubique",
+    "definition": "everywhere"
+  },
+  {
+    "word": "umquam",
+    "definition": "ever"
+  },
+  {
+    "word": "una",
+    "definition": "together"
+  },
+  {
+    "word": "unde",
+    "definition": "from where"
+  },
+  {
+    "word": "undique",
+    "definition": "everywhere"
+  },
+  {
+    "word": "usquam",
+    "definition": "anywhere"
+  },
+  {
+    "word": "usque",
+    "definition": "continuously"
+  },
+  {
+    "word": "ut",
+    "definition": "as"
+  },
+  {
+    "word": "ut",
+    "definition": "how"
+  },
+  {
+    "word": "ut",
+    "definition": "in order that"
+  },
+  {
+    "word": "utinam",
+    "definition": "if only"
+  },
+  {
+    "word": "utique",
+    "definition": "certainly"
+  },
+  {
+    "word": "utpote",
+    "definition": "in as much as"
+  },
+  {
+    "word": "utrum",
+    "definition": "whether"
+  },
+  {
+    "word": "vel",
+    "definition": "or"
+  },
+  {
+    "word": "velut",
+    "definition": "just as"
+  },
+  {
+    "word": "vero",
+    "definition": "but"
+  },
+  {
+    "word": "vero",
+    "definition": "truly"
+  },
+  {
+    "word": "videlicet",
+    "definition": "plainly"
+  },
+  {
+    "word": "vix",
+    "definition": "almost"
+  },
+  {
+    "word": "vulgo",
+    "definition": "in general"
   }
 ]
