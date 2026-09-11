@@ -18,8 +18,7 @@ NUMBER_OF_WORDS = None
 # ============================================================
 
 def load_dictionary():
-
-    """Read every JSON file in Database into {word: definition}."""
+    """Read JSON files in Database and return 20 random words."""
 
     dictionary = {}
 
@@ -30,6 +29,10 @@ def load_dictionary():
 
         for entry in data:
             dictionary[entry["word"]] = entry["definition"]
+
+    # Pick 20 random words
+    if len(dictionary) > 10:
+        dictionary = dict(random.sample(list(dictionary.items()), 10))
 
     return dictionary
 
